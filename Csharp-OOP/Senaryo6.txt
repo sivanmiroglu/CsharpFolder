@@ -1,0 +1,22 @@
+﻿
+Ev (ev oluştururken oda sayısı vermek zorunlu Instance - Constructor)
+OdaSayisi
+Kat
+EbeveynBanyoVarMi -> true , false  -> set edilemez!!! luks propu true ise bu da true dur değilse false dur.
+LuksMu -> boole  
+
+
+Arsa
+
+ImaraAcikMi -> bool
+
+
+Villa  ( ev class ından miras alacak )
+
+HavuzVarMi -> bool
+BahceAlan -> Int
+GarajAlan -> Int
+
+Emlak class ına AddDate adında bir datetime ekle default now.
+Emlak class ına ViewDate adında string bir alan ekleyeceksin. Bu alan set EDİLEMEZ. bu alan addDate deki alanı aşağıdaki formatta gösterecek
+"20 April 2022, Wednesday"

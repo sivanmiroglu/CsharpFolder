@@ -1,0 +1,15 @@
+﻿
+Öğrenci
+
+Ad
+Soyad
+Bölüm
+No
+
+
+Akademisyen
+
+Ad
+Soyad
+Bölüm
+

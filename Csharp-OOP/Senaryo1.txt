@@ -1,0 +1,22 @@
+﻿Hastane Örneği - Hasta , doktor ve poliklinik den oluşan birbirine bağlı
+
+Base
+ID
+
+Hasta
+
+Ad
+Soyad
+DoğumTarih
+TCNo
+
+
+Doktor
+Ad
+Soyad
+Poliklinik ( 1 adet departmanı var)
+
+
+Poliklinik
+Ad
+KurulusTarih

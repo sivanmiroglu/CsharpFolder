@@ -1,0 +1,16 @@
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\bin\Debug\net5.0\Csharp-OOP.exe
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\bin\Debug\net5.0\Csharp-OOP.deps.json
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\bin\Debug\net5.0\Csharp-OOP.runtimeconfig.json
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\bin\Debug\net5.0\Csharp-OOP.runtimeconfig.dev.json
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\bin\Debug\net5.0\Csharp-OOP.dll
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\bin\Debug\net5.0\Csharp-OOP.pdb
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\Csharp-OOP.csproj.AssemblyReference.cache
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\Csharp-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\Csharp-OOP.AssemblyInfoInputs.cache
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\Csharp-OOP.AssemblyInfo.cs
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\Csharp-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\Csharp-OOP.dll
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\refint\Csharp-OOP.dll
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\Csharp-OOP.pdb
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\Csharp-OOP.genruntimeconfig.cache
+C:\Users\Z004J86X\Desktop\CsharpFolder\Csharp-OOP\obj\Debug\net5.0\ref\Csharp-OOP.dll
